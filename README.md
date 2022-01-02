@@ -11,10 +11,6 @@ Query the iTunes API with this amazing Svelte app, it lists the artist in a card
 # Running this project:
 if (you aren't using GitPod) { <br>
 clone this repo and run these commands from the project directory <br>
-} else { <br>
-just open it, it'll spin up the dev server and install the extensions. <br>
-}
-first...
 ```
 npm install
 ```
@@ -22,3 +18,8 @@ then...
 ```
 npm run dev
 ```
+} else { <br>
+just open it, it'll spin up the dev server and VSCode with the extensions. <br>
+}
+
+
