@@ -2,9 +2,9 @@
 Query the iTunes API with this amazing Svelte app, it lists the artist in a card view inside of a grid view.<br>
 
 <br>Coming soon!:
-- preview the song
-- better color scheme
-- more info from the API
+- Global color scheme
+- More info from the API
+- Better looking cards
 # Requirements for Running this project
 - npm
 - super l33t h4x0r skills
@@ -19,7 +19,7 @@ then...
 npm run dev
 ```
 } else { <br>
-just open it, it'll spin up the dev server and VSCode with the extensions. <br>
+just open it in GitPod, it'll spin up the dev server and VSCode with extensions and HMR. <br>
 }
 
 
